@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<!--https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=-C,-B,-UNKNOWN-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ErikDio&rank=-C,-?)](https://github.com/ErikDio/github-profile-trophy)
 <!--
 **ErikDio/ErikDio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
