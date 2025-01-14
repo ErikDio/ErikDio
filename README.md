@@ -1,4 +1,4 @@
-# Hi there, I'm Erik Dio! 🇧🇷
+# Hi there, I'm Erik Dio!
 
 
 ## About Me
