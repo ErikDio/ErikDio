@@ -31,7 +31,7 @@ A brief description of your project. What does it do? What technologies did you 
 -->
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ErikDio&rank=-C,-?)](https://github.com/ErikDio/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ErikDio&rank=-C,-?&theme=oldie)](https://github.com/ErikDio/github-profile-trophy)
 
 ## 🔗 Links
 
