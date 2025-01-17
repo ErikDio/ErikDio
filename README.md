@@ -10,7 +10,6 @@ I'm a passionate software developer with a keen interest in automation.
 - **Languages**: C, C++, C#, PHP, Python, JavaScript
 - **Web Development**: HTML, CSS, React, Node.js
 - **Tools**: Git, Docker, Visual Studio Code
-- **Operating Systems**: Windows, Linux
 
 <!--## 🚀 Projects
 
